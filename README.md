@@ -34,8 +34,8 @@ Welcome to my todo app! This project was built using React.js and helps you mana
 
 ## Screenshots
 
-![Alt text](https://asset.cloudinary.com/duqo58i2h/c4755c52f06b291461f5bdf3dc6c949b "Main page")
-![Alt text](https://asset.cloudinary.com/duqo58i2h/d4623f030b320bdb122d0179dcf04b75 "Edit task")
+![Main page](https://asset.cloudinary.com/duqo58i2h/c4755c52f06b291461f5bdf3dc6c949b "")
+![Edit task page](https://asset.cloudinary.com/duqo58i2h/d4623f030b320bdb122d0179dcf04b75 "Edit task")
 
 ## Contributing
 
